@@ -1,1 +1,1 @@
-# Starbucks   projeto realizado com finalidade educacional
+ projeto realizado com finalidade educacional
